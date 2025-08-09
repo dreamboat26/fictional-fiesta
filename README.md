@@ -119,4 +119,3 @@ You can test the model on:
 ### License
 
 This project is released under the MIT License.
-```
