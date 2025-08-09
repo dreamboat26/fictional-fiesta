@@ -119,3 +119,9 @@ You can test the model on:
 ### License
 
 This project is released under the MIT License.
+
+<img width="4470" height="2955" alt="enhanced_analysis_JCMCRI-1083_1754153988" src="https://github.com/user-attachments/assets/6011d19b-a793-4cd5-aba4-1bc116b489db" />
+
+<img width="4470" height="2955" alt="enhanced_analysis_JCMCRI-1085_1754153999" src="https://github.com/user-attachments/assets/32bef7cd-0a6d-44e5-96aa-1adf5bce2bd1" />
+
+<img width="4470" height="2955" alt="enhanced_analysis_JCMCRI-1088_1754154055" src="https://github.com/user-attachments/assets/2e77110c-a379-486d-9b52-d3dfc2948e04" />
