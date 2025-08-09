@@ -34,7 +34,7 @@ It then:
 
 ### Clone the Repository
 ```bash
-git clone [https://github.com/dreamboat26/fictional-fiesta.git](https://github.com/dreamboat26/fictional-fiesta.git)
+git clone https://github.com/dreamboat26/fictional-fiesta.git
 %cd fictional-fiesta
 ```
 
